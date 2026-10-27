@@ -1,1 +1,1 @@
-file in master branch
+file created in both the branches
